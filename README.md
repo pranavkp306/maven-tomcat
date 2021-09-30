@@ -573,8 +573,10 @@ Uploaded: http://18.188.255.27:8080/manager/text/deploy?path=%2Fhelloworld-webap
 # Check your Tomcat server
 * Go to ip-v4:8080
 * Clik on Manager APP
-* > It will ask for username and pass word give **username=tomcat** and **password=s3cret**
-![alt text](<path_relative_to_current_github_location/image.jpg>)
+* > It will ask for username and password give **username=tomcat** and **password=s3cret**
+
+
+![alt text](<https://github.com/pranavkp306/maven-tomcat/blob/main/Screenshot%202021-09-30%20155913.png>)
 
 
 
